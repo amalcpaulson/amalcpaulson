@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CODe Design Week Website,Freelance
-- 🌱 I’m currently learning Django,React
+- 🔭 I’m currently working on Gtech Mulearn Website,Freelance
+- 🌱 I’m currently learning Django,ReactJS,React Native
 - 👯 I’m looking to collaborate on Web projects
 - 💬 Ask me about web application development
 - 📫 How to reach me: amalcpaulson@gmail.com
