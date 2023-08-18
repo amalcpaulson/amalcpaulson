@@ -13,6 +13,8 @@
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amal070146&" alt="Amal C P" /></p>
 
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amal070146&show_icons=true&locale=en" alt="kochouseph26john" /></p>
+
 
 <h3 align="left">Support me :</h3>
 <p><a href="https://www.buymeacoffee.com/amalcp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavmadhK" /></a></p>
