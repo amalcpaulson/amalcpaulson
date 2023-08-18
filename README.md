@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1 align="center">I'm Amal C P</h1>
+
 - 🔭 I’m currently working on Gtech Mulearn Website, Freelance
 - 🌱 I’m currently learning Django, ReactJS, ViteJs, React Native
 - 👯 I’m looking to collaborate on Web projects
