@@ -18,13 +18,13 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amal070146&show_icons=true&locale=en" alt="kochouseph26john" /></p>
 
 
+
+
+<p align="center"> <img src="https://mulearn.org/embed/rank/amalcp@mulearn" height="400px"></img></p>
+
+
 <h3 align="left">Support me :</h3>
 <p><a href="https://www.buymeacoffee.com/amalcp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavmadhK" /></a></p>
-
-
-
-
-
 
 
 
