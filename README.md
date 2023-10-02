@@ -20,7 +20,7 @@
 
 
 
-<p align="center"> <img src="https://mulearn.org/embed/rank/amalcp@mulearn" height="400px"></img></p>
+<p align="center"> <img src="https://mulearn.org/embed/rank/amalcp@mulearn" width="500" height="400"></img></p>
 
 
 <h3 align="left">Support me :</h3>
