@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Django, ReactJS, ViteJs, React Native
 - 👯 I’m looking to collaborate on Web projects
 - 💬 Ask me about web application development
-- Currently working with government website and GTA Sandshores hackathon 
+- Currently working with government website and OpenGrad project
 - 📫 How to reach me: amalcpaulson@gmail.com
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=amalcpaulson"/></p>
