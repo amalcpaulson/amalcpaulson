@@ -8,6 +8,7 @@
 - 💬 Ask me about web application development
 - Currently working with government website and OpenGrad project
 - 📫 How to reach me: amalcpaulson@gmail.com
+- Portfolio - <a href="https://amalcpaulson.netlify.app">amal c p </a>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=amalcpaulson"/></p>
 
