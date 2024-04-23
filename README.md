@@ -28,7 +28,7 @@
 <img align="left" width="32px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" width="32px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" width="32px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<img align="left" width="33px"  height="33px" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" />
+
 
 
 <br /><br />
