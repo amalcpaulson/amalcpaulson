@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on AproIT Solutions Pvt Ltd, Freelance
 - 🌱 I’m currently learning Django, ReactJS, ViteJs, React Native
 - 👯 I’m looking to collaborate on Web and app projects
-- 💬 Ask me about web application development
+- 💬 Ask me about web and mobile application development 
 - Currently working with government website and OpenGrad project
 - 📫 How to reach me: amalcpaulson@gmail.com
 - Portfolio - <a href="https://amalcpaulson.vercel.app">amal c p </a>
