@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Amal C P</h1>
 
-- 🔭 I’m currently working on AproIT Solutions Pvt Ltd, Freelance
+- 🔭 I’m currently working on SOTI
 - 🌱 I’m currently learning Django, ReactJS, ViteJs, React Native
 - 👯 I’m looking to collaborate on Web and app projects
 - 💬 Ask me about web and mobile application development 
