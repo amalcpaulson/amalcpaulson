@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Web and app projects
 - 💬 Ask me about web and mobile application development 
 - 📫 How to reach me: amalcpaulson@gmail.com
-- Portfolio - <a href="https://amalcpaulson.vercel.app">amal c p </a>
+- Portfolio - <a href="https://amalcp.com">amal c p </a>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=amalcpaulson"/></p>
 
