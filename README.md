@@ -22,7 +22,8 @@
 ```typescript
 const amal = {
   role: "Full-Stack & Mobile Developer",
-  currentlyBuilding: "FOODO AI 🍜",
+  company: "FOODO AI 🍜",
+  previously: "SOTI",
   learning: ["Django", "React Native", "Kotlin", "Vite"],
   focus: ["Web Apps", "Mobile Apps", "Clean UI/UX"],
   portfolio: "https://amalcp.com",
@@ -30,7 +31,7 @@ const amal = {
 };
 ```
 
-- 🔭 Currently building **FOODO AI**
+- 🔭 Currently working at **FOODO AI**
 - 🌱 Deepening my skills in **Django, ReactJS, Vite, React Native, Kotlin**
 - 👯 Open to collaborating on **web & mobile projects**
 - 💬 Ask me about **web and mobile application development**
@@ -92,10 +93,17 @@ const amal = {
 
 ---
 
-## 🌟 Featured Project
+## 💼 Experience
 
-> ### 🍜 [FOODO AI](https://amalcp.com)
-> An AI-powered platform I'm currently building. Visit my **[portfolio](https://amalcp.com)** to explore my latest work, case studies, and live projects.
+**🍜 FOODO AI** — *Full-Stack & Mobile Developer* `Present`
+> Building AI-powered web & mobile products end to end.
+
+**🛡️ SOTI** — *Software Developer* `Previously`
+> Contributed to enterprise mobility & device management software.
+
+> 💡 For my full work history and detailed experience, visit my **[LinkedIn →](https://www.linkedin.com/in/amalcpaulson)**
+
+📂 Explore my projects, case studies, and live work on **[amalcp.com](https://amalcp.com)**.
 
 ---
 
